@@ -1,0 +1,3 @@
+include ':postgresql-42.2.9'
+include ':app'
+rootProject.name = "Conexão banco de dados"
