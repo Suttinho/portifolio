@@ -1,6 +1,6 @@
 # Códigos
 * [Futebol](portifolio/banco_de_dados/) 
-* [Conexãobanco](programação_de_aplicativos/Conexobancodedados/)
+* [Conexãobanco](portifolio/programação_de_aplicativos/Conexobancodedados/)
 * [Cassino](portifolio/desenvolvimento_de_sistemas/)
 
 # Sobre mim
