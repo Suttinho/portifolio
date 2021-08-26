@@ -1,7 +1,7 @@
 # Códigos
-* [Consulta](Banco_de_dados/Consulta/)
-* [login](programação_de_aplicativos/login/)
-* [Cassino](Desenvolvimento_de_sistemas/cassino/)
+* [Futebol](portifolio/banco_de_dados/) 
+* [Conexãobanco](programação_de_aplicativos/Conexobancodedados/)
+* [Cassino](portifolio/desenvolvimento_de_sistemas/)
 
 # Sobre mim
 Arthur Sutto
